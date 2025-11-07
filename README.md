@@ -2,6 +2,8 @@
 
 ![Sales Dashboard](./Sales_dashboard.png) 
 
+![Sales Report](./Sales_Report.png) 
+
 ## 🎯 Project Overview
 
 This project involves building an interactive dashboard to help business owners and decision-makers understand key sales metrics. The goal is to identify trends, top-performing products, and customer segments to drive strategic decisions.
