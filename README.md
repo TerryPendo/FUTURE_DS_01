@@ -14,6 +14,7 @@ This project involves building an interactive dashboard to help business owners 
 - Find the overall perecntage profit margin and average order value
 
 **Data**
+
 The dashboard uses **E-commerce sales data** from an Excel file which includes:
 - Product IDs, Order IDs, Customer IDs and categories
 - Monthly sales and revenue
@@ -30,6 +31,7 @@ The dashboard uses **E-commerce sales data** from an Excel file which includes:
 - **Interactive Filters:** Slicers for `Year` and `Category` allow users to drill down into specific data segments.
 
 **Key Insights:**
+
 - **Phones** and **Chairs** are the top-performing product sub-categories.
 - The **Consumer** segment is the largest contributor to revenue.
 - The dashboard reveals clear monthly sales trends, with identifiable peaks, aiding in inventory and marketing planning.
