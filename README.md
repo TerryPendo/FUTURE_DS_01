@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Analytics Dashboard
+# 📊 E-commerce Sales Performance Dashboard
 
 ![Sales Dashboard](./Sales_dashboard.png) 
 
@@ -6,11 +6,18 @@
 
 This project involves building an interactive dashboard to help business owners and decision-makers understand key sales metrics. The goal is to identify trends, top-performing products, and customer segments to drive strategic decisions.
 
-**Business Questions Answered:**
-- What are the best-selling products and categories?
-- When do sales peak throughout the year?
-- Which customer segments and regions generate the most revenue?
-- What is the overall profit margin and average order value?
+**Objectives**
+
+- Identify the best-selling products.
+- Find when sales peak during the year
+- Explore which customer segments and regions generate the most revenue/sales.
+- Find the overall perecntage profit margin and average order value
+
+**Data**
+The dashboard uses **E-commerce sales data** from an Excel file which includes:
+- Product IDs, Order IDs, Customer IDs and categories
+- Monthly sales and revenue
+- Region-Wise sales
 
 ## 📈 Key Features
 
@@ -22,7 +29,7 @@ This project involves building an interactive dashboard to help business owners 
 - **Top Products:** A horizontal bar chart listing the best-selling products by name.
 - **Interactive Filters:** Slicers for `Year` and `Category` allow users to drill down into specific data segments.
 
-**Notable Insights:**
+**Key Insights:**
 - **Phones** and **Chairs** are the top-performing product sub-categories.
 - The **Consumer** segment is the largest contributor to revenue.
 - The dashboard reveals clear monthly sales trends, with identifiable peaks, aiding in inventory and marketing planning.
