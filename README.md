@@ -57,9 +57,6 @@ To explore this dashboard:
 2.  Open it with **Power BI Desktop**.
 3.  Interact with the filters and visuals to explore the data yourself.
 
-## Demo Video
-[![Watch the full dashboard demo](Sales_dashboard.png)](Ecommerce_business_Sales 2025-11-11 15-45-39.mp4)
-
 ## License
 
 *This project was created for educational purposes as part of a Data Science & Analytics internship task at Future Interns.*
