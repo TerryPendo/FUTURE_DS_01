@@ -2,6 +2,7 @@
 
 ![Sales Dashboard](./Sales_dashboard.png) 
 
+
 ![Sales Report](./Sales_report.png) 
 
 ## 🎯 Project Overview
