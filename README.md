@@ -58,7 +58,7 @@ To explore this dashboard:
 3.  Interact with the filters and visuals to explore the data yourself.
 
 ## Demo Video
-[Watch the full dashboard demo](Ecommerce_business_Sales 2025-11-11 15-45-39.mp4)
+[![Watch the full dashboard demo](Sales_dashboard.png)](Ecommerce_business_Sales 2025-11-11 15-45-39.mp4)
 
 ## License
 
